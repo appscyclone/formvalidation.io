@@ -1,0 +1,24 @@
+{
+    "name": "formvalidation.io",
+    "version": "0.0.1",
+    "main": "dist/js/formValidation.min.js",
+    "ignore": [
+        "source",
+        "spec",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+    ],
+    "dependencies": {
+        "jquery": ">=1.10.2",
+        "bootstrap": "v4.0.0-alpha.3",
+    },
+    "devDependencies": {
+        "jquery-mockjax": "~1.5.2"
+    }
+}
