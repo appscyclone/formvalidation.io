@@ -7,8 +7,6 @@
         "spec",
         ".bowerrc",
         ".gitignore",
-        ".jshintignore",
-        ".jshintrc",
         "bower.json",
         "gruntfile.js",
         "package.json",
