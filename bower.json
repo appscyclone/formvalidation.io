@@ -5,7 +5,11 @@
     "Hung Nguyen<hunguyenv@gmail.com>"
   ],
   "description": "",
-  "main": "",
+  "main": [
+	"dist/css/formValidation.min.css",
+	"dist/js/formValidation.min.js",
+	"dist/js/framework/bootstrap4.min.js"
+  ],
   "license": "MIT",
   "private": true,
   "ignore": [
